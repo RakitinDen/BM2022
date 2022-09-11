@@ -42,6 +42,7 @@ O<sub>итоговая</sub> = 0.5 * О<sub>домашние задания</sub
 
 __Занятие 1. Введение в байесовские методы. Сопряженные распределения__
 * [Презентация](https://github.com/nadiinchi/bm_mini_course_UCM/blob/master/Bayesian_methods_presentation.pdf)
+* [Запись лекции](https://drive.google.com/file/d/1fMKEHK75WErpJWnFiesKfiOt-l2BOTId/view?usp=sharing)
 * [Конспект семинара](https://drive.google.com/file/d/1VcbO2_XmawXnR7GsMGrsG7vzM7Cv1JES/view?usp=sharing)
 * [__Задание для самостоятельной работы__](https://github.com/ftad/BM2018/blob/master/homeworks/homework2.pdf) (кроме пункта 6)
 
