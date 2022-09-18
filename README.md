@@ -46,6 +46,10 @@ __Занятие 1. Введение в байесовские методы. С�
 * [Конспект семинара](https://drive.google.com/file/d/1VcbO2_XmawXnR7GsMGrsG7vzM7Cv1JES/view?usp=sharing)
 * [__Задание для самостоятельной работы__](https://github.com/ftad/BM2018/blob/master/homeworks/homework2.pdf) (кроме пункта 6)
 
+__Занятие 2. Байесовская линейная регрессия__
+* [Презентация](https://github.com/ftad/BM2020/blob/master/materials/presentation_linear_FTAD.pdf)
+* [Запись лекции, часть 1](https://drive.google.com/file/d/1fOGQbN6jlgk3j1xIzeIWT3iT5P0NNd7C/view?usp=sharing)
+* [Запись лекции, часть 2](https://drive.google.com/file/d/1Z2HFmnhTsx3azgjVnnUIEd7d9-vwsg07/view?usp=sharing)
 
 ### Задания
 
