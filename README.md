@@ -51,6 +51,16 @@ __Занятие 2. Байесовская линейная регрессия__
 * [Запись лекции, часть 1](https://drive.google.com/file/d/1fOGQbN6jlgk3j1xIzeIWT3iT5P0NNd7C/view?usp=sharing)
 * [Запись лекции, часть 2](https://drive.google.com/file/d/1Z2HFmnhTsx3azgjVnnUIEd7d9-vwsg07/view?usp=sharing)
 
+__Занятие 3. Вариационный вывод и байесовские нейронные сети (с прошлого года)__
+* [Презентация 1 (слайды 82-102)](https://github.com/nadiinchi/bm_mini_course_UCM/blob/master/Bayesian_methods_presentation.pdf)
+* [Презентация 2](https://github.com/ftad/BM2020/blob/master/materials/presentation_bnn_ftad.pdf)
+* [__Задание для самостоятельной работы__](https://github.com/nadiinchi/mlhep2019/blob/master/notebooks/day-4/Bayesian/SparseVD_assignment.ipynb)
+
+__Занятие 4. Методы Markov Chain Monte Carlo__
+* [Презентация](https://github.com/ftad/BM2020/blob/master/materials/presentation_MCMC_ftad.pdf)
+* [Запись лекции](https://drive.google.com/file/d/1-394fJ3pjQsOWNWaVo3s0A4cUQi-BwHc/view?usp=sharing)
+* [__Задание для самостоятельной работы__](https://github.com/ftad/BM2020/blob/master/materials/homework_BNN.pdf)
+
 ### Задания
 
 ### Полезные материалы
