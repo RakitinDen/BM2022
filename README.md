@@ -59,6 +59,7 @@ __Занятие 3. Вариационный вывод и байесовски�
 __Занятие 4. Методы Markov Chain Monte Carlo__
 * [Презентация](https://github.com/ftad/BM2020/blob/master/materials/presentation_MCMC_ftad.pdf)
 * [Запись лекции](https://drive.google.com/file/d/1-394fJ3pjQsOWNWaVo3s0A4cUQi-BwHc/view?usp=sharing)
+* Видео, использованные в конце лекции (динамика Ланжевена): [первое](https://www.youtube.com/watch?v=1xBKlnMjO-c), [второе](https://www.youtube.com/watch?v=cVn0kru3hL8)
 * [__Задание для самостоятельной работы__](https://github.com/ftad/BM2020/blob/master/materials/homework_BNN.pdf)
 
 ### Задания
